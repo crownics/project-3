@@ -1,0 +1,846 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header_top{
+    width: 100%;
+    height: 88px;
+    background-color: #2D2D2D;
+}
+.header_top1{
+    width: 100%;
+    height: 72px;
+    background-color: #525050;
+}
+.sales{
+    width: 88px;
+    height: 45px;
+    padding-top: 27px;
+    left: 6.04%;
+    right: 87.85%;
+    top: 3.81%;
+    bottom: 93.12%;
+    background-color: #D01345;
+    margin-left: 88px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    font-weight: bold italic;
+    line-height: 23px;
+    letter-spacing: 0.14px;
+    color: #FFFFFE;
+    text-align: center;
+}
+.category{
+    width: 880px;
+    height: 24px;
+    float: right;
+    margin-top: 27px;
+    margin-right: 370px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 12px;
+    font-weight: regular;
+    line-height: 18px;
+    letter-spacing: 0.11px;
+    color: #FFFFFE;
+}
+.cat1{
+    float: left;
+}
+.cat2{
+    float: left;
+    margin-left: 15px
+}
+.cat3{
+    float: left;
+    margin-left: 15px
+}
+.cat4{
+    float: left;
+    margin-left: 15px
+}
+.cat5{
+    float: left;
+    margin-left: 15px
+}
+.cat6{
+    float: left;
+    margin-left: 15px
+}
+.cat7{
+    float: left;
+    margin-left: 15px
+}
+.cat8{
+    float: left;
+    margin-left: 15px
+}
+.cat9{
+    float: left;
+    margin-left: 15px
+}
+.cat10{
+    float: left;
+    margin-left: 15px
+}
+.cat11{
+    float: left;
+    margin-left: 15px
+}
+.header_top2{
+    width: 100%;
+    height: 60px;
+    background-color: #1FC9B4;
+    padding-top: 10px;
+}
+.inlet1{
+    width: 1264px;
+    height: 100%;
+    margin: auto;
+}
+.logo{
+    margin-top: 30px;
+    float: left;
+    margin-left: 88px;
+}
+.women_cat{
+    width: 110px;
+    height: 88px;
+    float: left;
+    margin-left: 40px;
+    border: solid 1px #979797;
+}
+.women_cat:hover{
+    background-color: #908888;
+}
+.men_cat{
+    width: 110px;
+    height: 88px;
+    background-color: #908888;
+    float: left;
+    border: solid 1px #979797;
+}
+.women{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: medium;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    word-Spacing: 0.14px;
+    margin-top: 32px;
+    color: #fffffe;
+}
+.men{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: medium;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    word-Spacing: 0.14px;
+    margin-top: 32px;
+    color: #fffffe;
+}
+.search{
+    margin-left: 40px;
+    width: 552px;
+    height: 35px;
+    border-radius: 20px;
+    Align: Inside;
+    margin-top: 25px;
+    padding-left: 24px;
+    background-image: url('img/search-magnifier.svg');
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.profile{
+    margin-left: 40px;
+}
+.heart{
+    margin-left: 40px;
+}
+.shopping-bag{
+    margin-left: 40px;
+}
+.button1{
+    background-color: #1FC9B4; /* red */
+    border: solid 2px #FFFFFF;
+    width: 130px;
+    height: 30px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    word-spacing: 0.11px;
+    margin-top: 10px;
+    margin-left: 88px;
+    float: left;
+}
+.button2{
+    background-color: #1FC9B4; /* red */
+    border: solid 2px #FFFFFF;
+    width: 130px;
+    height: 30px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    word-spacing: 0.11px;
+    margin-top: 10px;
+    margin-right: 88px;
+    float: right;
+}
+.promo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold oblique;
+    font-size: 13px;
+    line-height: 15px;
+    text-align: center;
+    color: #FFFFFF;
+    float: left;
+    margin-left: 434px;
+}
+.back-img{
+    width: 823px;
+    height: 570px;
+    margin-left: 309px;
+    position: absolute;
+    background-image: url('img/background.png');
+    background-repeat: no-repeat;
+}
+.green-background{
+    width: 100%;
+    height: 570px;
+    background-color: #1BC8B4;
+    opacity: 0.5;
+    position: absolute;
+}
+.product-content1{
+  width: 714px;
+  height: 46px;
+  padding-top: 19px;
+  background-color: #1FC9B4;
+  color: #ffffff;
+  position: absolute;  
+  text-align: center;
+  font-size: 27px;
+  font-weight: italic;
+  line-height: 32px;
+  margin-top: 25px;
+  margin-left: 363px;
+}
+.product-wrapper{
+    width: 1230px;
+    height: 315px;
+    position: absolute;
+    margin-top: 115px;
+    margin-left: 105px;
+}
+.jacket{
+    width: 230px;
+    height: 36px;
+    padding-top: 279px;
+    background-image: url('img/jacket1.png');
+    background-repeat: no-repeat;
+    float: left;
+}
+.jacket-text{
+    width: 230px;
+    height: 28px;
+    padding-top: 8px;
+    background-color: #FFFFFF;
+    text-align: center;
+    line-height: 20px;
+    font-weight: bold;
+    font-size: 17px;
+    word-spacing: 0.12px;
+}
+.shoes{
+    width: 230px;
+    height: 36px;
+    padding-top: 279px;
+    background-image: url('img/shoes1.png');
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: 20px;
+}
+.shoes-text{
+    width: 230px;
+    height: 28px;
+    padding-top: 8px;
+    background-color: #FFFFFF;
+    text-align: center;
+    line-height: 20px;
+    font-weight: bold;
+    font-size: 17px;
+    word-spacing: 0.12px;
+}
+.native-wears{
+    width: 230px;
+    height: 36px;
+    padding-top: 279px;
+    background-image: url('img/native-wears.png');
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: 20px;
+}
+.native-text{
+    width: 230px;
+    height: 28px;
+    padding-top: 8px;
+    background-color: #FFFFFF;
+    text-align: center;
+    line-height: 20px;
+    font-weight: bold;
+    font-size: 17px;
+    word-spacing: 0.12px;
+}
+.shirt{
+    width: 230px;
+    height: 36px;
+    padding-top: 279px;
+    background-image: url('img/shirts.png');
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: 20px;
+}
+.shirt-text{
+    width: 230px;
+    height: 28px;
+    padding-top: 8px;
+    background-color: #FFFFFF;
+    text-align: center;
+    line-height: 20px;
+    font-weight: bold;
+    font-size: 17px;
+    word-spacing: 0.12px;
+}
+.jeans{
+    width: 230px;
+    height: 36px;
+    padding-top: 279px;
+    background-image: url('img/jeans.png');
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: 20px;
+}
+.jeans-text{
+    width: 230px;
+    height: 28px;
+    padding-top: 8px;
+    background-color: #FFFFFF;
+    text-align: center;
+    line-height: 20px;
+    font-weight: bold;
+    font-size: 17px;
+    word-spacing: 0.12px;
+}
+.shop-button1{
+    width: 245px;
+    height: 50px;
+    background-color: #FFFFFF;
+    border-radius: 3px;
+    position: absolute;
+    margin-top: 459px;
+    margin-left: 598px;
+    font-size: 21px;
+    font-weight: bold;
+    line-height: 25px;
+    text-align: center;
+    word-spacing: 0.15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.shop-button1:hover{
+    background-color: black;
+    color: #ffffff;
+}
+.time-content{
+    margin-top: 534px;
+    margin-left: 607px;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: oblique;
+    font-size: 15px;
+    line-height: 14px;
+    position: absolute;
+}
+.product-wrapper1{
+    width: 930px;
+    height: 650px;
+    position: absolute;
+    margin-top: 619px;
+    margin-left: 255px;
+}
+.product-wrapper1-content1{
+    width: 450px;
+    height: 650px;
+    background-image: url('img/africano.png');
+    background-repeat: no-repeat;
+    float: left;
+}
+.product-wrapper1-content2{
+    width: 450px;
+    height: 650px;
+    background-image: url('img/trendies-style.png');
+    background-repeat: no-repeat;
+    float: right;
+}
+.product-wrapper2{
+    width: 864px;
+    height: 135px;
+    position: absolute;
+    margin-top: 1290px;
+    margin-left: 297px;
+}
+.product-wrapper2-content1{
+    width: 400px;
+    height: 135px;
+    float: left;
+    text-align: center;
+}
+.new-trend-text1{
+    font-weight: bold;
+    font-size: 25px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 33px;
+    word-spacing: 0.2px;
+    color: #464242;
+}
+.new-trend-text2{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 23px;
+    word-spacing: 0.14px;
+    color: #464242;
+}
+.shop-edit{
+    width: 245px;
+    height: 50px;
+    border: 2px solid #2D2D2D;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 23px;
+    word-spacing: 0.14px;
+    color: #464242;
+    text-align: center;
+    margin-top: 20px;
+}
+.shop-edit:hover{
+    background-color: black;
+    color: #ffffff;
+}
+.product-wrapper2-content2{
+    width: 400px;
+    height: 135px;
+    float: right;
+    text-align: center;
+}
+.new-brand-text1{
+    font-weight: bold;
+    font-size: 25px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 33px;
+    word-spacing: 0.2px;
+    color: #464242;
+}
+.new-brand-text2{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 23px;
+    word-spacing: 0.14px;
+    color: #464242;
+}
+.shop-style{
+    width: 245px;
+    height: 50px;
+    border: 2px solid #2D2D2D;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 23px;
+    word-spacing: 0.14px;
+    color: #464242;
+    text-align: center;
+    margin-top: 20px;
+}
+.shop-style:hover{
+    background-color: black;
+    color: #ffffff;
+}
+.update{
+    width: 100%;
+    height: 183px;
+    background-color: #CCF3EE;
+    position: absolute;
+    margin-top: 1475px; 
+}
+.smartphone{
+    text-align: center;
+    margin-top: 30px;
+}
+.update-content{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 15px;
+    font-weight: medium;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 19px;
+}
+.update-button{
+    width: 180px;
+    height: 35px;
+    background-color: #2D2D2D;
+    color: #FFFFFF;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 12px;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 630px;
+}
+@keyframes bounce {
+	0%, 20%, 60%, 100% {
+		-webkit-transform: translateY(0);
+		transform: translateY(0);
+	}
+
+	40% {
+		-webkit-transform: translateY(-20px);
+		transform: translateY(-20px);
+	}
+
+	80% {
+		-webkit-transform: translateY(-10px);
+		transform: translateY(-10px);
+	}
+}
+.update-button:hover {
+    animation: bounce 1s;
+    background-color: #ffffff;
+    border: solid #2D2D2D;
+    color: #2D2D2D;
+}
+.style-feeds{
+    width: 100%;
+    height: 640px;
+    background-color: #FFF55D;
+    margin-top: 1708px;
+    position: absolute;
+}
+.feeds-content1{
+    width: 323px;
+    height: 54px;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+}
+.style-feeds-text1{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: black;
+    font-size: 25px;
+    line-height: 29px;
+    word-spacing: 1.3px;
+}
+.style-feeds-text2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 24px;
+}
+.feeds-content2{
+    width: 1271px;
+    height: 452px;
+    margin: auto;
+    margin-top: 50px;
+}
+.feeds-content2-trousers{
+    width: 288px;
+    height: 147px;
+    padding-top: 305px;
+    background-image: url('img/style-feed-trousers.png');
+    background-repeat: no-repeat;
+    float: left;
+}
+.feeds-content2-trousers-text{
+    width: 288px;
+    height: 127px;
+    padding-top: 20px;
+    background-color: #ffffff;
+}
+.feeds-content2-trousers-text1{
+    width: 247px;
+    height: 24px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+}
+.feeds-content2-trousers-text2{
+    width: 116PX;
+    height: 18px;
+    margin-top: 10px;
+    margin-left: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 18px;
+}
+.feeds-content2-trousers-text3{
+    width: 116px;
+    height: 18px;
+    margin-top: 50px;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 18px;
+}
+.feeds-content2-exclusive{
+    width: 288px;
+    height: 147px;
+    padding-top: 305px;
+    background-image: url('img/exclusive.png');
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: 22px;
+}
+.feeds-content2-exclusive-text{
+    width: 288px;
+    height: 127px;
+    padding-top: 20px;
+    background-color: #ffffff;
+}
+.feeds-content2-exclusive-text1{
+    width: 270px;
+    height: 48px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+}
+.feeds-content2-exclusive-text2{
+    width: 236PX;
+    height: 18px;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 18px;
+}
+.feeds-content2-exclusive-text3{
+    width: 116px;
+    height: 18px;
+    margin-top: 30px;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 18px;
+}
+.feeds-content2-manswear{
+    width: 288px;
+    height: 147px;
+    padding-top: 305px;
+    background-image: url('img/manswear.png');
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: 22px;
+}
+.feeds-content2-manswear-text{
+    width: 288px;
+    height: 127px;
+    padding-top: 20px;
+    background-color: #ffffff;
+}
+.feeds-content2-manswear-text1{
+    width: 270px;
+    height: 48px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+}
+.feeds-content2-manswear-text2{
+    width: 241px;
+    height: 18px;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 18px;
+}
+.feeds-content2-manswear-text3{
+    width: 116px;
+    height: 18px;
+    margin-top: 30px;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 18px;
+}
+.feeds-content2-printed{
+    width: 288px;
+    height: 147px;
+    padding-top: 305px;
+    background-image: url('img/printed.png');
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: 22px;
+}
+.feeds-content2-printed-text{
+    width: 288px;
+    height: 127px;
+    padding-top: 20px;
+    background-color: #ffffff;
+}
+.feeds-content2-printed-text1{
+    width: 247px;
+    height: 24px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+}
+.feeds-content2-printed-text2{
+    width: 161px;
+    height: 18px;
+    margin-top: 10px;
+    margin-left: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 18px;
+}
+.feeds-content2-printed-text3{
+    width: 116px;
+    height: 18px;
+    margin-top: 50px;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 18px;
+}
+.arrow1{
+    float: right;
+    margin-top: 191px;
+}
+.last{
+   width: 950px;
+   height: 630px;
+   position: absolute; 
+   margin-top: 2398px;
+   margin-left: 245px;   
+}
+.sneaker-brand{
+    width: 450px;
+    height: 630px;
+    background-image: url('img/sneaker-brand.png');
+    float: left;
+}
+.boots{
+    width: 450px;
+    height: 630px;
+    background-image: url('img/boots.png');
+    float: right;
+}
+.last1{
+    width: 772px;
+    height: 145px;
+    position: absolute;
+    margin-top: 3038px;
+    margin-left: 334px;
+}
+.last1-1{
+    width: 264px;
+    height: 145px;
+    float: left;
+    text-align: center;
+}
+.last1-2{
+    width: 264px;
+    height: 145px;
+    float: right;
+    text-align: center;
+}
+.last1-1-text1{
+    font-weight: bold;
+    font-size: 25px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 33px;
+    word-spacing: 0.2px;
+    color: #464242;
+}
+.last1-1-text2{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 23px;
+    word-spacing: 0.14px;
+    color: #464242;
+}
+.button-last1{
+    width: 245px;
+    height: 50px;
+    border: 2px solid #2D2D2D;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 23px;
+    word-spacing: 0.14px;
+    color: #464242;
+    text-align: center;
+    margin-top: 20px;
+}
+.button-last1:hover{
+    background-color: black;
+    color: #ffffff;
+}
+.last1-2-text1{
+    font-weight: bold;
+    font-size: 25px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 33px;
+    word-spacing: 0.2px;
+    color: #464242;
+}
+.last1-2-text2{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 23px;
+    word-spacing: 0.14px;
+    color: #464242;
+}
+.button-last2{
+    width: 245px;
+    height: 50px;
+    border: 2px solid #2D2D2D;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 23px;
+    word-spacing: 0.14px;
+    color: #464242;
+    text-align: center;
+    margin-top: 20px;
+}
+.button-last2:hover{
+    background-color: black;
+    color: #ffffff;
+}
